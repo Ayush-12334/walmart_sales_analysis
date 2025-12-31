@@ -1,4 +1,4 @@
-![Description of image]("C:\Users\Ayush\walmart_sales_analysis\walmart_project-piplelines.png")
+![Description of image](walmart_sales_analysis\walmart_project-piplelines.png")
 
 # Walmart Sales Analytics
 

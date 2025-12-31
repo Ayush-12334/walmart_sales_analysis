@@ -1,4 +1,5 @@
-![Description of image](walmart_sales_analysis\walmart_project-piplelines.png")
+![Project Pipeline](walmart_project-pipelines.png)
+
 
 # Walmart Sales Analytics
 
